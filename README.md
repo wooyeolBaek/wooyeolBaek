@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat&link=mailto:dwybaek7@gmail.com)](mailto:dwybaek7@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwooyeolBaek&count_bg=%233D84C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dwybaek7)](https://solved.ac/dwybaek7/)
 <!--
@@ -19,4 +20,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooyeolBaek&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwybaek7)](https://solved.ac/dwybaek7/)  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat&link=mailto:dwybaek7@gmail.com)](mailto:dwybaek7@gmail.com)
 -->
